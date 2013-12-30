@@ -63,3 +63,35 @@ resource [Yahoo] [1], resource [j&r] [2]
 
 [1]: http://www.yahoo.com
 [2]: http://www.johnrichie.com
+
+
+
+3-channel conversion method
+--------------------------------
+* more specific/fine-tune control
+* can do it all in flash, all editing saved
+* simple program -> complicated editing
+- create: red:x, green:y, blue:z images
+- import 3 images into program
+- perform normals calculations
+- output single combined image
+
+automated
+--------------------------------
+* settings can be saved for specific conversion
+* automated, might not need very specific controls
+* no editing -> complicated program
+- import single texture image
+- import settings/none
+- determine directions, etc of 
+- like repeating-pattern ability
+- live parameter editing
+- live output of result
+- need to texture scene in webGL
+
+
+...
+
+... mooed
+...........
+
