@@ -27,43 +27,46 @@ Well then
 
 Break it up
 
-- what is this
-- and what the
- - fuck
- - it
+- level 1
+- level 1
+ - level 2
+  - level 3
+ - level 2
 
 Hi thar
 
-1. What
-2. is
-3. this
+1. item A
+2. item B
+3. item C
 
 
 > sub
 > comments
 
-- [x] task 1
-- [ ] task 2
-- [ ] task 3
+ - [x] task 1
+ - [ ] task 2
+ - [ ] task 3
 
-yep
+this is a line of text
 
 :what does this
 : guy
 :do
+ : nothing
 
-[visit fucking google](http://www.google.com)
+[web link title here](http://www.google.com)
 
 ```
-fucking git decides to use another language
+# go to here
 https://help.github.com/articles/github-flavored-markdown
+
 ```
 
-resource [Yahoo] [1], resource [j&r] [2]
+resource [Yahoo] [1], resource [j&r] [2], nothing [whatIsThis] [3]
 
 [1]: http://www.yahoo.com
 [2]: http://www.johnrichie.com
-
+[3]: not an address, just text
 
 
 3-channel conversion method
